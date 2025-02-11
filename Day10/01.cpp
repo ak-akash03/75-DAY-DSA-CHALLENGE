@@ -1,6 +1,13 @@
 
 // --- Vectors --------
 
+what is vector
+functions
+static vs dynamic
+
+
+
+
 #include<iostream>
 #include<vector>
 using namespace std;
