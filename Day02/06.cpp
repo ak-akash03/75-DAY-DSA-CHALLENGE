@@ -13,13 +13,16 @@ void reverseArray(int arr[], int size){
 
 }
 
+
+
+
 int main(){
 
     int arr[] = {4,2,6,4,2,1};
     int size = sizeof(arr) / sizeof(arr[0]);
 
     reverseArray(arr, size);
-
+    cout<<"helloak : ";
     for(int i=0; i<size; i++){
         cout<<arr[i]<<" ";
     }
